@@ -1,16 +1,19 @@
-# math_game
+# Math_game Flutter
 
-A new Flutter project.
+Welcome to the math game! This is a fun and educational mobile app created using Flutter and Dart. In the game, players are asked to solve various mathematical problems. This is a great way to test and improve your math skills while having fun.
 
 ## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+  Installation
+  Make sure you have Flutter and Dart installed on your machine. If not, follow the official Flutter installation guide.
+  Clone this repository to your local machine:
+bash
+  Copy code
+git clone https://github.com/your-repo-url/math-game.git
+  Navigate to the project directory:
+bash
+  Copy code
+cd math-game
+  Install dependencies:
+bash
+  Copy code
+flutter pub get
