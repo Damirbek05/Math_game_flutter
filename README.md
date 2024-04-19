@@ -9,7 +9,11 @@ Responsive Design: The app is designed to work well on different screen sizes an
 
 # Getting started
 Copy repository
-
+## Usage
+To run the application on an emulator or a connected device, use the following command:
+bash
+* flutter run
+Follow the on-screen instructions to play the game. The game will present you with various math problems. Solve them as quickly as possible within the time limit to maximize your score.
 
 Demo:
 
